@@ -3,7 +3,7 @@
 
 using namespace std;
 
-/* Mini Project - ATM
+/* Mini Project - ATM Simulation System
    -> Check Balance
    -> Cash withdraw
    -> User Details
